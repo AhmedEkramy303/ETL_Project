@@ -1,5 +1,3 @@
----
-
 ##  ETL Project with Airflow and PostgreSQL
 ### Project Description / وصف المشروع
 **English:**  
@@ -52,7 +50,4 @@ airflow scheduler
 | Country | NewConfirmed | TotalConfirmed | NewDeaths | TotalDeaths | Date       |  
 |---------|-------------|----------------|-----------|-------------|------------|  
 | Egypt   | 150         | 150000         | 5         | 8000        | 2025-09-07 |  
-
----
-
 
